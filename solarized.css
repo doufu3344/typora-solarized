@@ -313,7 +313,7 @@ tt {
     color: #cb4b16;
     border-radius: 3px;
     padding: 0;
-    font-family: Consolas, Mononoki, "Roboto Mono", "Liberation Mono", Courier, monospace;
+    font-family: "Dejavu Sans Mono", Consolas, Mononoki, "Roboto Mono", "Liberation Mono", Courier, monospace;
     padding: 2px 4px 0px 4px;
     font-size: 0.9em;
 }
